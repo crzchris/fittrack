@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="action_settings">Settings</string>
-    <string name="prompt_password">password</string>
-    <string name="action_sign_in_short">signIn</string>
-    <string name="prompt_email">userName</string>
-    <string name="action_sign_in">sign in</string>
-</resources>
